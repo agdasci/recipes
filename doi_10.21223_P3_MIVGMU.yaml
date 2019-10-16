@@ -1,0 +1,8 @@
+uri: https://doi.org/10.21223/P3/MIVGMU
+files:
+- name: ./doi_10.21223_P3_MIVGMU/Datos Yactayo et al_2013 (PRD).xlsx
+  type: data
+  format: xlsx
+- name: ./doi_10.21223_P3_MIVGMU/Dictionary_OA_Yactayo.xlsx
+  type: data
+  format: xlsx

@@ -1,0 +1,25 @@
+uri: https://hdl.handle.net/11529/11111
+
+files: 
+  - name: CSISA_OD_RiceCropCut_AllYearRawDataFinal.csv
+    format: csv
+    type: data
+    rowstart: 0
+    
+  - name: CSISA_OD_RiceCropCut_MetaSheet_1.csv"
+    format: csv
+    type: metadata
+    rowstart: 0
+
+
+variables:
+  - file: CSISA_OD_RiceCropCut_AllYearRawDataFinal.csv
+    Year: 
+        - rename: Year
+    Season: 
+        - rename: Season
+    District_Name:
+        - rename: District_Name
+    
+    
+    
